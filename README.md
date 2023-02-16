@@ -11,7 +11,7 @@
 <br><br>
 <Strong>📧Email📧</Strong>
 <br>
-day.05.dev@gmail.com
+imdahyeon5@gmail.com
 <br>
 
 </p>
